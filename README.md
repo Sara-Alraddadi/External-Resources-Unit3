@@ -115,4 +115,18 @@ axios({
 1. **[Collective list of free APIs](https://github.com/public-apis/public-apis)**
 
 
+## React Steps:
+1. **Install create-react-app tool globally so we'll always have it available in our Terminal:** in the terminal write $`npm i -g create-react-app`
+2. **Create React app:** in the terminal write $`create-react-app app_name`
+3. **Run React app:**  in the terminal $`npm start`
 
+## React Commands:
+#### Create App
+**Create React project:** in the terminal write 
+```bash 
+create-react-app app_name
+```
+**Start React project:** in the terminal write 
+```bash 
+npm start
+```
